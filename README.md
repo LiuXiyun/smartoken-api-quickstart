@@ -2,7 +2,7 @@
 
 Examples for SmarToken's OpenAI-compatible **text Chat Completions** API. Use your own SmarToken API key; keep it secret, store it server-side, and never commit it.
 
-- [Create an account and API key](https://thesmartoken.com/dashboard/api-keys)
+- [Create an account and API key](https://thesmartoken.com/register?utm_source=github&utm_medium=repository&utm_campaign=api_quickstart)
 - [Documentation](https://thesmartoken.com/docs) · [Pricing](https://thesmartoken.com/pricing) · [Current model IDs](https://thesmartoken.com/v1/models)
 
 **These examples send real billable requests.** New accounts start without an API balance; add funds before calling. Check current availability and pricing first. [Terms](https://thesmartoken.com/terms) · [Privacy](https://thesmartoken.com/privacy).
